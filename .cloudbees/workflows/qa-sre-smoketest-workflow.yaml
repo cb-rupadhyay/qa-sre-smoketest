@@ -80,7 +80,7 @@ jobs:
                       },
                       "pipeline_id": "${RUN_ID}",
                       "git": {
-                        "repository_url": "https://github.com/apandharkar/demo-app",
+                        "repository_url": "https://github.com/cb-rupadhyay/qa-sre-smoketest",
                         "sha": "${SCM_SHA}",
                         "branch": "${SCM_BRANCH}",
                         "author_email": "${SCM_EMAIL}"
