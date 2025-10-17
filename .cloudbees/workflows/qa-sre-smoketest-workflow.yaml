@@ -7,7 +7,7 @@ on:
     - cron: 0,6,12,18,24,30,36,42,48,54 * * * *
   # push:
   #   branches:
-  #     - 'CBP-21126'
+  #     - 'main'
   workflow_dispatch:
 
 env:
